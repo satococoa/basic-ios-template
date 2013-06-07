@@ -1,0 +1,2 @@
+class AppProperties
+end
