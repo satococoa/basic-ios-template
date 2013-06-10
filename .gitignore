@@ -6,7 +6,7 @@ resources/*.storyboardc
 vendor/bundle
 vendor/Pods
 .bundle
-config*.yml
+config.yml
 testflight_launcher.rb
 trace.d
 debugger_cmds
