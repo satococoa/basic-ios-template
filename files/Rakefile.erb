@@ -16,6 +16,7 @@ Motion::Project::App.setup do |app|
   app.device_family = :iphone
   #app.device_family = [:ipad, :iphone]
   app.interface_orientations = [:portrait, :landscape_left, :landscape_right]
+  app.detect_dependencies = false
 
   conf_file = './config.yml'
   if File.exists?(conf_file)
