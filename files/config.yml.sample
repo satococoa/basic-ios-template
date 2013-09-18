@@ -3,6 +3,7 @@ identifier: com.example.*
 testflight:
   api_token: API_TOKEN
   team_token: TEAM_TOKEN
+  app_token: APP_TOKEN
   distribution_lists:
     - testers
 
